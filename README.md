@@ -10,5 +10,5 @@ pip install matplotlib
 - Run the following command to run the app
 
 ```bash
-python src/main.py
+python main.py
 ```
